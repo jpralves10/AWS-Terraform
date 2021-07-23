@@ -1,6 +1,6 @@
 # AWS-Terraform
 
-https://www.terraform.io/
-https://www.terraform.io/downloads.html
-https://registry.terraform.io/browse/providers
-https://github.com/chgasparoto/curso-aws-com-terraform
+`https://www.terraform.io/` <br/>
+`https://www.terraform.io/downloads.html` <br/>
+`https://registry.terraform.io/browse/providers` <br/>
+`https://github.com/chgasparoto/curso-aws-com-terraform` <br/>
