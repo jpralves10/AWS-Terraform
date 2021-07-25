@@ -10,8 +10,8 @@ terraform {
 }
 
 provider "aws" {
-  region  = "eu-central-1"
-  profile = "tf014"
+  region  = "us-east-1"
+  profile = "terraform"
 }
 
 data "aws_caller_identity" "current" {}
@@ -26,7 +26,7 @@ resource "aws_s3_bucket" "remote-state" {
   tags = {
     Description = "Stores terraform remote state files"
     ManagedBy   = "Terraform"
-    Owner       = "Cleber Gasparoto"
+    Owner       = "Jean Alves"
     CreatedAt   = "2021-01-24"
   }
 }

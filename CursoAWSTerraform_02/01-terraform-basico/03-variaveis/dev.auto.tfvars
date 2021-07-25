@@ -1,1 +1,0 @@
-envinroment = "dev"
